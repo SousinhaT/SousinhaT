@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T14:38:59.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="c2_cX-OYuy2dhlKsYtvw" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T14:39:59.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7dpD2ljU5PGh2yg_d4CU" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1687" dy="1332" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-10" value="INCIDENT DETECTED&lt;br&gt;[COUNTRIES || PARTNERS || CIPHER]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IB3P2Yn9RWmiKG1jhuGu-10" target="IB3P2Yn9RWmiKG1jhuGu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-10" value="INCIDENT DETECTED&lt;br&gt;[COUNTRIES || PARTNERS || CIPHER]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="618.5" y="813" width="233" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IB3P2Yn9RWmiKG1jhuGu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IB3P2Yn9RWmiKG1jhuGu-11" target="IB3P2Yn9RWmiKG1jhuGu-12">
@@ -201,7 +204,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;1) ASSIGNED TO SOC/CIPHER &lt;br&gt;IN &lt;br&gt;SERVICE DESK" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;1) ASSIGNED TO SOC/CIPHER &lt;br&gt;IN &lt;br&gt;SERVICE DESK" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.75" y="909" width="310.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IB3P2Yn9RWmiKG1jhuGu-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -215,17 +218,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-12" value="RECEIVE NOTIFICATION&lt;br&gt;affidea@cipher.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-12" value="RECEIVE NOTIFICATION&lt;br&gt;affidea@cipher.com" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="286" y="951.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IB3P2Yn9RWmiKG1jhuGu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IB3P2Yn9RWmiKG1jhuGu-15" target="IB3P2Yn9RWmiKG1jhuGu-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-15" value="SERVICE DESK&lt;br&gt;[ ASSIGNED TO OWNER ]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-15" value="SERVICE DESK&lt;br&gt;[ ASSIGNED TO OWNER ]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="653" y="1153" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-19" value="INCIDENT&lt;br&gt;RESOLUTION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-19" value="INCIDENT&lt;br&gt;RESOLUTION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="675" y="1374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-22" value="2) TRIAGE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="472" y="1155" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
