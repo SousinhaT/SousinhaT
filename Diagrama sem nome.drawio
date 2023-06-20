@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T14:46:16.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W2W5gWOT59mZ2K68E-c_" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T14:50:03.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="405UXSI8KRhGqJUDt1zV" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1762" dy="1234" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
         <mxCell id="IB3P2Yn9RWmiKG1jhuGu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GwuTtNk6kihslIZRIB3s-19" target="GwuTtNk6kihslIZRIB3s-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-7" value="REPLY TO REQUESTER WITH &lt;br&gt;INCIDENT RESOLUTION BY EMAIL, IRT OR CALL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IB3P2Yn9RWmiKG1jhuGu-6">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-7" value="REPLY TO REQUESTOR WITH &lt;br&gt;INCIDENT RESOLUTION BY EMAIL, IRT OR CALL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IB3P2Yn9RWmiKG1jhuGu-6">
           <mxGeometry x="0.4469" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -233,7 +233,7 @@
         <mxCell id="IB3P2Yn9RWmiKG1jhuGu-22" value="2) TRIAGE&lt;br&gt;affidea@cipher.com&lt;br&gt;cp.information.security@affidea.com" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="462" y="1155" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-24" value="&lt;h1 style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Description&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1) &lt;span style=&quot;font-weight: normal;&quot;&gt;Ticket may be raised by other Affidea&#39;s teams. In that case it is already assigned to Cypher, that should answer to that request&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2)&lt;/b&gt;&amp;nbsp;In the beginning all tickets before being created/ assigned on Service Desk should be approved by cp.information.security&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IB3P2Yn9RWmiKG1jhuGu-24" value="&lt;h1 style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Description&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1) &lt;span style=&quot;font-weight: normal;&quot;&gt;Ticket may be raised by other Affidea&#39;s teams. In that case it is already assigned to Cipher, that should answer to that request&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2)&lt;/b&gt;&amp;nbsp;In the beginning all tickets before being created/ assigned on Service Desk should be approved by cp.information.security&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="922" y="831.5" width="375" height="283.5" as="geometry" />
         </mxCell>
       </root>
